@@ -21,8 +21,8 @@ Om
 
 Detta innehåll är skrivet i markdown och du hittar innehållet i filen `content/om.md`.
 
-Skriv några kloka ord om kursen?
+Nu ska vi se om python eller php är bäst för OO-programmering!
 
-Lägg till en fin och representativ bild för kursen, enligt ditt eget val.
+LET THE BATTLE BEGIN!
 
-[FIGURE src=image/car.png?w=740&filter=grayscale&f1=colorize,0,30,0,0 caption="En fin bil som demobild, lite oklart hur den är representativ, men ändå..."]
+[FIGURE src=image/objekt.jpg?w=740&filter=grayscale&f1=colorize,0,30,0,0 caption="En fin objekt-demostration."]

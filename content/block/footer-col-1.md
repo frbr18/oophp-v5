@@ -1,3 +1,6 @@
-#### Footer col 1
+#### Hans majestät
 
-Med brödtext i ett stycke som säger något trevligt om just detta block, eller kanske en lista av länkar.
+- Vad heter du då min lille vän?
+- Hans. Precis som kungen.
+- Men kungen heter ju inte Hans?
+- Jodå, hans majestät.
