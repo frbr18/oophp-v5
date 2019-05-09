@@ -68,5 +68,15 @@ return [
             "url" => "dice-game",
             "title" => "Spela ett träningsspel",
         ],
+        [
+            "text" => "Dice Game2",
+            "url" => "dice-game2",
+            "title" => "Spela ett träningsspel2",
+        ],
+        [
+            "text" => "Movies",
+            "url" => "movie",
+            "title" => "En lista med filmer.",
+        ],
     ],
 ];
