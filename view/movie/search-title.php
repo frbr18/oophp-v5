@@ -4,8 +4,9 @@
     <input type="hidden" name="route" value="search-title">
     <p>
         <label>Title (use % as wildcard):
-            <input type="search" name="searchTitle" value="<?= esc($searchTitle) ?>"/>
+            <input type="text" name="searchTitle" value="<?= esc($searchTitle) ?>">
         </label>
+        
     </p>
     <p>
         <input type="submit" name="doSearch" value="Search">
